@@ -12,4 +12,11 @@
 		<item key="internalFilter" value="true"/>
 		<item key="uncategorizedFilter" value="true"/>
 	</section>
+	<section name="PropertyDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="879"/>
+		<item key="DIALOG_Y_ORIGIN" value="317"/>
+		<item key="DIALOG_WIDTH" value="643"/>
+		<item key="DIALOG_HEIGHT" value="533"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
 </section>
