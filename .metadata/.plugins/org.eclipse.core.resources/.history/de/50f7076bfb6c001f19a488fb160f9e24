@@ -1,0 +1,19 @@
+package 일차원배열;
+
+import java.util.Scanner;
+
+public class num10813 {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+
+		int N = sc.nextInt();
+		int M = sc.nextInt();
+		
+		for(int a = 0; a < M; a++) {
+			
+		}
+	}
+
+}
